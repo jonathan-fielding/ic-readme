@@ -2,7 +2,7 @@
 
 ## Motivation for this document
 
-This is my README, it has is a document to talk about how I like to work. The intended audience is primarily anyone who works with me day to day me, though anyone is free to read it or even provide feedback on it! Please treat it as a reference and promise on how I will conduct myself as a engineer, and what I expect from you.
+This is my README, it has is a document to talk about how I like to work and help you understand me a little better. The intended audience is primarily anyone who works with me day to day me, though anyone is free to read it or even provide feedback on it! Please treat it as a reference and promise on how I will conduct myself as a engineer, and what I expect from you.
 
 I urge you to hold me accountable to my promises, and to call out anything that might be missing from this document. Without your guidance, I will not be able to improve as a engineer.
 
@@ -10,11 +10,11 @@ This is a living document and will be kept on GitHub so there is a history of ho
 
 ## About me
 
-I joined Spendesk in January 2023 as a Staff Engineer working within the Growth and Expansion group. Prior to my time at Spendesk I have worked at severval different tech startups, most recently at RVU where I worked across multiple teams helping to improve web performance and SEO.
+I joined Spendesk in January 2023 as a Staff Engineer working within the Growth and Expansion group. Prior to my time at Spendesk I have worked at severval different tech startups across a variety of different roles ranging from Engineering Manager, Tech Lead and 'Acting' Principal Engineer, this breadth of roles means I have a breadth of experience that I can bring to the table.
 
 Outside of work I have a Black Belt in Karate, write lots of little side projects, I blog on Medium and of course I couldn't write this without talking about my love for Disney and play video games.
 
-## My role as a staff engineer
+## My role as a Staff Engineer
 
 TL;DR: I am here to make sure our engineering team is successful, happy, and working on the things that are most important to help our customers, improve our product, and improve our business. More granularly:
 
@@ -42,12 +42,23 @@ In return, I promise to give you feedback in a timely manner. If it’s not clea
 
 Your one to one is a safe space where we can talk confidentially about anything you want to share. I might take notes but these never leave my computer and are not shared with others without your express permission.
 
-## Personality quirks
+## Things you should know
 
-* I have biases like everyone however I do my best to keep them in check and think about things from different perspectives. If you think I am being biased about a particular topic however I am happy to be called out and to be shown a different perspective on things.
-* I am partially deaf which often leads me to talk loudly, sometimes I even get mistaken for shouting when really im just passionate about something and am not controlling my volume properly. It makes me uncomforatable this being pointed out publically however I am happy for you to quietly say something.
-* When you ask “do you have 5 minutes?” in Slack or email, please add the topic you’d like to discuss, otherwise, I’ll get a bit anxious and worry that something is seriously wrong or that your about to quit.
+1.	Neurodivergence:
 
+    I am neurodivergent, which means I have unique challenges and strengths. One area I struggle with is communication, particularly written communication. If I find myself having difficulty explaining something, I may suggest jumping on a call to better convey my thoughts. In this I ask you are patient with me and assume best intent.
+
+2.	Bias Awareness:
+
+	Like everyone, I have biases. I strive to keep them in check and consider different perspectives. If you feel I am being biased about a particular topic, please feel free to point it out and share your perspective. I am open to learning and growing.
+
+3.	Partial Deafness:
+
+	I am partially deaf, which sometimes causes me to speak loudly. This can occasionally be mistaken for shouting, especially when I am passionate about something. I appreciate a quiet heads-up if my volume is off, as public corrections can make me uncomfortable.
+
+4.	Requests for Time:
+	
+    When you ask, “Do you have 5 minutes?” on Slack or via email, please include the topic you’d like to discuss. This helps me manage my anxiety and prevents unnecessary worry about the nature of the conversation.
 
 ## Credits
 
