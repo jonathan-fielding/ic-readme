@@ -40,7 +40,11 @@ If you're not comfortable giving me this feedback yourself, I'd love for you to 
 
 In return, I promise to give you feedback in a timely manner. If it’s not clear, and you have a nagging feeling, let me know so I can fix it! It’s not intentional. I’ll also reply promptly to you, or let you know when you can expect a reply, if you reach out.
 
-Your one to one is a safe space where we can talk confidentially about anything you want to share. I might take notes but these never leave my computer and are not shared with others without your express permission.
+## One to Ones
+
+While I am not your manager, we might choose to have regular one to ones if there is an area you want my help with. 
+
+I treat a one to one with me as safe space where we can talk confidentially about anything you want to share. I might take notes but these never leave my computer and are not shared with others without your express permission.
 
 ## Things you should know
 
