@@ -34,7 +34,7 @@ I might have thoughts on your code, and I expect you to have thoughts on mine. I
 
 I welcome all feedback as I find it is really important to help me grow as an engineer. It could be something you liked and would like to see more of, something you thought I could do better, something you thought I totally screwed up, or something that doesn't fit in any of these categories. Even if you think it might not be the case, I do want to hear it. And if you think I don't want to hear it, I'd love feedback on why you feel that way.
 
-My preference is to receive feedback person however if you're only comfortable kicking off a discussion with an email or a Slack message, I would rather you do that than not bring it up at all.
+My preference is to receive feedback in person however if you're only comfortable kicking off a discussion with an email or a Slack message, I would rather you do that than not bring it up at all.
 
 If you're not comfortable giving me this feedback yourself, I'd love for you to give it to someone above me in the management chain so they can anonymously relay it to me and I can work on it.
 
