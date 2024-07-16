@@ -2,7 +2,7 @@
 
 ## Motivation for this document
 
-This is my README, it has is a document to talk about how I like to work and help you understand me a little better. The intended audience is primarily anyone who works with me day to day me, though anyone is free to read it or even provide feedback on it! Please treat it as a reference and promise on how I will conduct myself as a engineer, and what I expect from you.
+This is my README, it has is a document to talk about how I like to work and help you understand me a little better. The intended audience is primarily anyone who works with me day to day, though anyone is free to read it or even provide feedback on it! Please treat it as a reference and promise on how I will conduct myself as a engineer, and what I expect from you.
 
 I urge you to hold me accountable to my promises, and to call out anything that might be missing from this document. Without your guidance, I will not be able to improve as a engineer.
 
