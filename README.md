@@ -10,19 +10,20 @@ This is a living document and will be kept on GitHub so there is a history of ho
 
 ## About me
 
-I joined Spendesk in January 2023 as a Staff Engineer working within the Growth and Expansion group. Prior to my time at Spendesk I have worked at several different tech startups across a variety of different roles ranging from Engineering Manager, Tech Lead and 'Acting' Principal Engineer, this breadth of roles means I have a breadth of experience that I can bring to the table.
+I joined Spendesk in January 2023 as a Staff Engineer working within the Growth and Expansion group, I have since moved outside the group and am working across SAS focusing on the Scalability of our engineering organisation.
+
+Prior to my time at Spendesk I have worked at several different tech startups across a variety of different roles ranging from Engineering Manager, Tech Lead and 'Acting' Principal Engineer, this breadth of roles means I have a breadth of experience that I can bring to the table.
 
 Outside of work I have a Black Belt in Karate, write lots of little side projects, I blog on Medium and of course I couldn't write this without talking about my love for Disney and play video games.
 
 ## My role as a Staff Engineer
 
-TL;DR: I am here to make sure our engineering team is successful, happy, and working on the things that are most important to help our customers, improve our product, and improve our business. More granularly:
+TL;DR: I am here to make sure our engineering team is successful, happy, and working on the things that are most important to help our customers, improve our product, improve our engineering  and improve our business. More granularly:
 
 1. I am here to make sure you are both successful and happy: I want you to improve your technical skills, grow your career, enjoy your work, and believe in both our team's and our company's mission.
-1. I am here to make sure our team is successful and pointed in the right direction. 
-1. I'm also here to help make sure we are working on the right things, which is not necessarily everything we're asked to do.
-1. I write some code too!
-1. I also occasionally cause an incident 🤦‍♂️ (Only 1 so far at Spendesk though)
+1. I am here to make sure our team is successful and pointed in the right direction, keeping us focused on impactful work.
+1. I'm also here to help make sure we are working on the right things, which is not necessarily everything we're asked to do. I will help us to prioritise our tech debt alongside our product work so we can continue to build a scalable product.
+1. I actively write code, ensuring I stay connected with the technical challenges and opportunities our team faces.
 
 These are in approximate order of importance. If you are not successful and happy, our team is not successful (or happy). If our engineering team is struggling, writing code will most likely not be my top priority.
 
