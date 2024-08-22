@@ -14,7 +14,7 @@ I joined Spendesk in January 2023 as a Staff Engineer working within the Growth 
 
 Prior to my time at Spendesk I have worked at several different tech startups across a variety of different roles ranging from Engineering Manager, Tech Lead and 'Acting' Principal Engineer, this breadth of roles means I have a breadth of experience that I can bring to the table.
 
-Outside of work I have a Black Belt in Karate, write lots of little side projects, I blog on Medium and of course I couldn't write this without talking about my love for Disney and play video games.
+Outside of work I have a Black Belt in Karate, write lots of little side projects, I blog on [Medium](https://jonthanfielding.medium.com/) and of course I couldn't write this without talking about my love for Disney and play video games.
 
 ## My role as a Staff Engineer
 
