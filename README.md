@@ -10,13 +10,13 @@ This is a living document and will be kept on GitHub so there is a history of ho
 
 ## About me
 
-I joined Spendesk in January 2023 as a Staff Engineer working within the Growth and Expansion group, I have since moved outside the group and am working across SAS focusing on the Scalability of our engineering organisation.
+I joined Legend in Feburary 2025 as a Principal Engineer.
 
-Prior to my time at Spendesk I have worked at several different tech startups across a variety of different roles ranging from Engineering Manager, Tech Lead and 'Acting' Principal Engineer, this breadth of roles means I have a breadth of experience that I can bring to the table.
+Prior to my time at Legend I have worked at several different tech startups across a variety of different roles ranging from Engineering Manager, Tech Lead and 'Acting' Principal Engineer, this breadth of roles means I have a breadth of experience that I can bring to the table.
 
 Outside of work I have a Black Belt in Karate, write lots of little side projects, I blog on [Medium](https://jonthanfielding.medium.com/) and of course I couldn't write this without talking about my love for Disney and play video games.
 
-## My role as a Staff Engineer
+## My role as a Principal Engineer
 
 TL;DR: I am here to make sure our engineering team is successful, happy, and working on the things that are most important to help our customers, improve our product, improve our engineering  and improve our business. More granularly:
 
@@ -29,7 +29,7 @@ These are in approximate order of importance. If you are not successful and happ
 
 Additionally: My job is not to tell you exactly what to do and how to do it. It is also not to be the "official decision maker" for our team.
 
-I might have thoughts on your code, and I expect you to have thoughts on mine. In the end, you own your code and if you have a good reason for doing something, you should do it; "use good judgment" is a key part of the Spendesk culture, and it applies to code as much as everything else.
+I might have thoughts on your code, and I expect you to have thoughts on mine. In the end, you own your code and if you have a good reason for doing something, you should do it.
 
 ## Feedback
 
